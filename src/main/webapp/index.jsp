@@ -22,7 +22,7 @@
             text-align: center;
         }
         header h1 {
-            font-size: 3em;
+            font-size: 8em;
             margin: 0;
         }
         header p {
@@ -46,7 +46,7 @@
 
         /* Section Styling */
         section {
-            padding: 60px 20px;
+            padding: 80px 20px;
             max-width: 1200px;
             margin: 0 auto;
         }
@@ -138,7 +138,7 @@
         }
         .contact button {
             background: #38bdf8;
-            color: white;
+            color: yellow;
             border: none;
             cursor: pointer;
             transition: background 0.3s;
